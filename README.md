@@ -4,7 +4,7 @@
 
 Submitted by: **Yusra**
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -21,9 +21,10 @@ The following **optional/additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/LPDpIIV.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [Quicktime](http://www.hackmd.io@codepath-tfs/record-gifs-quicktime).
 
 ## Notes
 
